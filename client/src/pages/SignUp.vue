@@ -10,7 +10,7 @@
                             <input type="text" class="w-full rounded-md outline-none">
                         </div>
                         <div>
-                            <label for="email" class="block font-semibold text-md">email</label>
+                            <label for="email" class="block font-semibold text-md">Email</label>
                             <input type="email" class="w-full rounded-md outline-none">
                         </div>
                         <div>
